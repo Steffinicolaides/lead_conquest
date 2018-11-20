@@ -48,13 +48,13 @@
 	font-weight: lighter;
 	opacity: 0.8;
 	margin-bottom: 20px;
-	font-family: 'Lora', serif;
+	font-family: 'Open Sans', sans-serif;
 }
 .banner-third h3{
 	font-weight: normal;
 }
 .banner-third p{
-	font-family: 'Lora', serif;
+	font-family: 'Open Sans', sans-serif;
 }
 .banner-fourth{
 	background-image: linear-gradient(-225deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.7) 50%),url("../../images/war_background.jpg");
@@ -72,11 +72,11 @@
 	font-weight: lighter;
 	opacity: 0.8;
 	margin-bottom: 20px;
-	font-family: 'Lora', serif;
+	font-family: 'Open Sans', sans-serif;
 }
 .banner-fourth h3{
 	font-weight: normal;
 }
 .banner-fourth p{
-	font-family: 'Lora', serif;
+	font-family: 'Open Sans', sans-serif;
 }

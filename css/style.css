@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Lora|Noto+Sans+TC|Roboto");
+@import url("https://fonts.googleapis.com/css?family=Lora|Noto+Sans+TC|Roboto|Open+Sans");
 @import url("components/container.css");
 @import url("components/avatar.css");
 @import url("components/button.css");
@@ -6,7 +6,7 @@
 @import url("components/card.css");
 
 body {
-	font-family: 'Lora', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	margin: 0px;
 }
@@ -16,5 +16,5 @@ h1, h2, h3 {
 }
 a {
 	text-decoration: none;
-	font-family: 'Lora', serif;
+	font-family: 'Open Sans', sans-serif;
 }
