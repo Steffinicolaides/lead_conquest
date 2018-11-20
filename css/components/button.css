@@ -1,0 +1,13 @@
+.button{
+	background-color: #6d0000;
+	padding: 12px 18px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Noto sans TC', serif;
+	font-stretch: expanded;
+}
+.button:hover{
+	background-color: #8c8c70;
+	transition: 0.5s;
+}
