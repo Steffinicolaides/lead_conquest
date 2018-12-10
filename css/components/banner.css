@@ -14,23 +14,7 @@
 	opacity: 0.8;
 	margin-bottom: 20px;
 }
-.banner-second{
-	background-color: white;
-	color: black;
-	padding: 50px 0px;
-	background-size: cover;
-	background-position: center;
-}
-.banner-second h1{
-	font-size: 50px;
-}
-.banner-second h2{
-	font-size: 30px;
-	font-weight: lighter;
-	opacity: 0.8;
-	margin-bottom: 20px;
-	font-family: 'Open Sans', sans-serif;
-}
+
 .banner-third{
 	background-image: linear-gradient(-225deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.7) 50%),url("../../images/digital_background.jpeg");
 	color: white;
@@ -77,4 +61,4 @@
 }
 .banner-fourth p{
 	font-family: 'Open Sans', sans-serif;
-}
+} 
